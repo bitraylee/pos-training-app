@@ -1,2 +1,11 @@
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/exception/DuplicateProductException.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/dto/ProductDto.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/exception/ProductNotFoundException.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/config/CorsConfig.java
 /Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/controller/HelloController.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/controller/ProductController.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/model/Product.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/exception/GlobalExceptionHandler.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/repository/ProductRepository.java
+/Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/service/ProductService.java
 /Users/anshumohanta/Projects/pos-training-app/backend/src/main/java/com/example/posbackend/PosBackendApplication.java

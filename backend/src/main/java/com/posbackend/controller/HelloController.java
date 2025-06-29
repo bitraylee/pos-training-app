@@ -1,4 +1,4 @@
-package com.example.posbackend.controller;
+package com.posbackend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
