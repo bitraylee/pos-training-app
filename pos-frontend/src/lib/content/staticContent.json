@@ -1,0 +1,16 @@
+{
+    "authCard": {
+        "login": {
+            "title": "Login to POS System",
+            "description": "Enter your email below to login to your account",
+            "button": "Login",
+            "altButton": "New here? Sign up"
+        },
+        "signup": {
+            "title": "Create an account",
+            "description": "Enter your email below to create an account",
+            "button": "Create account",
+            "altButton": "Already have an account? Login"
+        }
+    }
+}

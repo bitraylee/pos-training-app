@@ -1,9 +1,17 @@
-import React from 'react'
+import { JSX, useState } from "react";
 
-export default function LandingPage(): React.JSX.Element {
-    return (
-        <div className="pos-app-landing-page">
-            <h1>Landing Page</h1>
-        </div>
-    )
+import AuthCard from "@components/AuthCard/AuthCard";
+
+
+export default function LandingPage(): JSX.Element {
+  const [context, setContext] = useState<"login" | "signup">("login");
+
+  const toggleContext = ()=>{
+    setContext(context==="login"? "signup" : "login")
+  }
+  return (
+    <div className="pos-landing-page">
+      <AuthCard context={context} toggleContext={toggleContext}/>
+    </div>
+  );
 }
